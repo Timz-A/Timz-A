@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, AI and Machine Learning**
 
-- 📫 How to reach me **td.agbaje@gmail.cpm**
+- 📫 How to reach me **td.agbaje@gmail.com**
 
 - ⚡ Fun fact **I'm Actually 17**
 
